@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/989163791?v=4" alt="Mohammed Ibrahim Abdullah" width="160" style="border-radius:50%;margin-bottom:12px;" />
-  
   <h1 align="center">Mohammed Ibrahim Abdullah</h1>
   <h3 align="center">🚀 Process Automation & AI Integration Professional</h3>
   <h4 align="center">🔧 IT Technician | 💻 Full Stack Developer | 🎨 UI/UX Designer</h4>
